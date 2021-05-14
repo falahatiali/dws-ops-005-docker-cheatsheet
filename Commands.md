@@ -54,11 +54,17 @@ Answer:
 
 ## **Question 5:**
  1 - Run a container based on following conditions:
+
     a - image           = nginx
+
     b - CPU             = 1.5 core
+
     c - memory          = 512M
+
     d - swap            = 256M
+
     e - cpu core number = 0
+
 
 Answer:
 ```
@@ -69,9 +75,13 @@ Answer:
 
 ## **Question 6:**
  1 - Run a container based on following conditions:
+
     a - set environments:
+
        a.1 - CLASS     = nginx
+
        a.2 - NAME      = ali
+
     
 Answer:
 ```
@@ -93,7 +103,9 @@ HOME=/root
 
 ## **Question 7:**
  1 - Run a container based on following conditions:
+
     a - set /data to workdir
+    
     b - mount an arbitrary path to /data
     
 Answer:
