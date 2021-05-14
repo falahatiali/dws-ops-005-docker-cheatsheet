@@ -9,4 +9,4 @@ describe docker-proxy and docker dangling images.
 
 for more info refer following address.
 
-[Full documentation](https://github.com/falahatiali/dws-ops-005-docker-cheatsheet/blob/main/Commands.md)
+[Full documentation](https://github.com/falahatiali/dws-ops-005-docker-cheatsheet/blob/master/Commands.md)
